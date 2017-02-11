@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    bottom: 0px;
+}
+body{
+    text-align: center;
+}
+.contenedorPrincipal{
+    background: red;
+    width: 981px;
+}
+.encabezado{
+    width: 981px;
+    height: 200px;
+    background: gray;
+    color: white;
+    font-size: 20px;
+}
+.barraNavegacion{
+    width: 981px;
+    height: 25px;
+    border-radius: 8px;
+    box-shadow: 1em .5em 3em;
+    background: #3dd;
+}
+
+a{
+    font:"Tahoma" 15px bold;
+    color: brown;
+    text-decoration: none;
+    
+}
+
